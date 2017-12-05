@@ -1,1 +1,1 @@
-print "My first program"
+print "My first proogram"
