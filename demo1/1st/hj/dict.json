@@ -1,0 +1,13 @@
+{
+  "alphabets": {
+    "a": "apple",
+    "b": "ball",
+    "c": "cat",
+    "d": "dog"
+  },
+  "numbers": [
+    "1",
+    "2",
+    "3"
+  ]
+}
